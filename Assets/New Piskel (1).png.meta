@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 5de1554c79e808b47b2e26f2b734071f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: New Piskel (1)_0
+    21300002: New Piskel (1)_1
+    21300004: New Piskel (1)_2
+    21300006: New Piskel (1)_3
+    21300008: New Piskel (1)_4
+    21300010: New Piskel (1)_5
+    21300012: New Piskel (1)_6
+    21300014: New Piskel (1)_7
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: -0.11643544, y: 0.481111}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New Piskel (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7eb17ea5c73d246ba222f1050ac30f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_1
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cadc9f165141d145b3f3fa67a9d7083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_2
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8698655e9577ca848b203fa8ed8dfbac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d3116044eda645af3e4aeb55ad88a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d755707b5ffe5b4491ee989aea9d0d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925c57069ce4214e8e96f7354a0e5e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9edc6defcd2222428648b478cd15f29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New Piskel (1)_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 384
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed79d2f87958f4dbf96964360c9b8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 76, y: -226}
+      - {x: -45, y: -226}
+      - {x: -63, y: -228}
+      - {x: -110, y: -284}
+      - {x: -110, y: -453}
+      - {x: -87, y: -566}
+      - {x: 66, y: -566}
+      - {x: 86, y: -562}
+      - {x: 86, y: -556}
+      - {x: 75, y: -515}
+      - {x: 86, y: -372}
+      - {x: 86, y: -240}
+    - - {x: -447, y: -226}
+      - {x: -494, y: -279}
+      - {x: -494, y: -512}
+      - {x: -486, y: -554}
+      - {x: -310, y: -554}
+      - {x: -310, y: -516}
+      - {x: -298, y: -478}
+      - {x: -298, y: -226}
+    - - {x: -393, y: -507}
+      - {x: -387, y: -507}
+      - {x: -387, y: -513}
+      - {x: -393, y: -513}
+    - - {x: -442, y: 158}
+      - {x: -447, y: 156}
+      - {x: -494, y: 90}
+      - {x: -494, y: -63}
+      - {x: -492, y: -80}
+      - {x: -427, y: -183}
+      - {x: -414, y: -194}
+      - {x: -298, y: -194}
+      - {x: -298, y: 158}
+    - - {x: -44, y: 158}
+      - {x: -110, y: 113}
+      - {x: -110, y: -59}
+      - {x: -99, y: -62}
+      - {x: -60, y: -62}
+      - {x: -26, y: -192}
+      - {x: -24, y: -194}
+      - {x: 65, y: -194}
+      - {x: 86, y: -132}
+      - {x: 86, y: 139}
+      - {x: 80, y: 158}
+    - - {x: 274, y: 128}
+      - {x: 274, y: -182}
+      - {x: 431, y: -182}
+      - {x: 461, y: -170}
+      - {x: 470, y: -128}
+      - {x: 470, y: 158}
+      - {x: 326, y: 158}
+      - {x: 321, y: 156}
+    - - {x: -487, y: 542}
+      - {x: -494, y: 527}
+      - {x: -494, y: 218}
+      - {x: -456, y: 190}
+      - {x: -298, y: 190}
+      - {x: -298, y: 542}
+    - - {x: -46, y: 542}
+      - {x: -62, y: 539}
+      - {x: -110, y: 511}
+      - {x: -110, y: 268}
+      - {x: -80, y: 190}
+      - {x: 86, y: 190}
+      - {x: 86, y: 542}
+    - - {x: 337, y: 542}
+      - {x: 322, y: 538}
+      - {x: 275, y: 488}
+      - {x: 274, y: 484}
+      - {x: 274, y: 236}
+      - {x: 345, y: 190}
+      - {x: 482, y: 190}
+      - {x: 482, y: 457}
+      - {x: 469, y: 542}
+    physicsShape: []
+    bones: []
+    spriteID: 42a981c09daa3ad4086e49b990acb24a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
